@@ -1,2 +1,2 @@
 # PFM
-Official implementation of "Photonic Flow Matching".
+Official implementation of "Photonic Flow Matching". (Coming soon.)
