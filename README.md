@@ -19,7 +19,6 @@ Official implementation of "Photonic Flow Matching". (Coming soon.)
 
 <p align="center">
   <a href="./assets/mnistflow.mp4">
-    <img src="./assets/mnistflow.gif" width="100%" alt="MNIST Flow demo">
   </a>
 </p>
 
