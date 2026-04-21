@@ -91,6 +91,8 @@ pip install torch==2.9.1 torchvision==0.24.1 --index-url https://download.pytorc
 
 > 🚧 **Coming soon**
 
+# :school: Setup
+
 # 🎬 Demo
 
 # 📜 License
