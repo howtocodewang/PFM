@@ -1,12 +1,15 @@
 # PFM
 Official implementation of "Photonic Flow Matching". (Coming soon.)
 <div align="center">
-  <img src="asserts/teaser.png" width="100%">
-# Photonic Flow Matching (PFM)
+  <img src="assets/teaser.png" width="100%">
+
+<h1>Photonic Flow Matching</h1>
 
 **Nanxing Chen***, **Fenglei Wang***, **Shuo Wang***, **Jintian Hu*#**, **Yuxiang Sun**, **Chuang Yang**,
 **Geyang Qu**, **Xuan Yu**, **Jiangyi Li**, **Jie Xhang**, **Qingbo Yang**, **Kairui Cao#**,
 **Jun Guan**, **Shengjie Wang**, **Chaoran Huang**, **Yubin Fan**, **Qinghai Song#**
+
+</div>
 
 [**Paper**](YOUR_PAPER_LINK) | [**Project Page**](YOUR_PROJECT_PAGE) | [**Supplementary Information**](YOUR_SI_LINK) | [**Pretrained Weights**](YOUR_CHECKPOINT_LINK)
 
