@@ -18,7 +18,9 @@ Official implementation of "Photonic Flow Matching". (Coming soon.)
 [![License]
 
 </div>
-
+<div align="center">
+  <video src="assets/mnistflow.mp4" width="100%">
+</div>
 > Photonic Flow Matching (PFM) formulates image generation as a physically realizable transport process under paraxial wave optics.  
 > In PFM, a sample is treated as the full normalized intensity distribution, while free-space propagation and programmable phase modulation induce a transport map on the sample space.
 
