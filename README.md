@@ -16,6 +16,7 @@ Official implementation of "Photonic Flow Matching". (Coming soon.)
 [![PDF]
 [![Project]
 [![License]
+</div>
 
 https://github.com/user-attachments/assets/34583132-3b91-495b-ac9e-aa05286136ec
 
