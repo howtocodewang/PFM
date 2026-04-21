@@ -17,10 +17,7 @@ Official implementation of "Photonic Flow Matching". (Coming soon.)
 [![Project]
 [![License]
 
-<p align="center">
-  <a href="./assets/mnistflow.mp4">
-  </a>
-</p>
+https://github.com/user-attachments/assets/34583132-3b91-495b-ac9e-aa05286136ec
 
 <p align="center">
   Click the image to watch the full demo video.
