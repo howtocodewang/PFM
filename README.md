@@ -45,7 +45,7 @@ This repository includes:
 
 ---
 
-### 🗺️ Meet Photonic Flow Matching! We've built a optoelectronic generative model for Text-to-Image! 🏗️🌍
+## 🗺️ Meet Photonic Flow Matching! We've built a optoelectronic generative model for Text-to-Image! 🏗️🌍
 
 Photonic Flow Matching has focused on:
 
