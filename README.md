@@ -1,4 +1,3 @@
-# PFM
 Official implementation of "Photonic Flow Matching". (Coming soon.)
 <div align="center">
   <img src="assets/teaser.png" width="100%">
