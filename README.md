@@ -103,7 +103,7 @@ This project is released under the Apache License 2.0. See [LICENSE](LICENSE.txt
 @article{chen2026,
   title={Photonic Flow Matching},
   author={Chen, Nanxing and Wang, Fenglei and Wang, Shuo and Hu, Jingtian},
-  journal={},
+  journal={Nature under review},
   year={2026}
 }
 ```
