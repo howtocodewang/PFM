@@ -1,7 +1,7 @@
 # PFM
 Official implementation of "Photonic Flow Matching". (Coming soon.)
 <div align="center">
-  <img src="assets/teaser.png" width="100%">
+  <img src="asserts/teaser.png" width="100%">
 # Photonic Flow Matching (PFM)
 
 **Nanxing Chen***, **Fenglei Wang***, **Shuo Wang***, **Jintian Hu*#**, **Yuxiang Sun**, **Chuang Yang**,
