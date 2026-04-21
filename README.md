@@ -9,8 +9,14 @@ Official implementation of "Photonic Flow Matching". (Coming soon.)
 **Jun Guan**, **Shengjie Wang**, **Chaoran Huang**, **Yubin Fan**, **Qinghai Song#**
 
 </div>
+
 <div align="center">
-[**Paper**](YOUR_PAPER_LINK) | [**Project Page**](YOUR_PROJECT_PAGE) | [**Supplementary Information**](YOUR_SI_LINK) | [**Pretrained Weights**](YOUR_CHECKPOINT_LINK)
+
+[![Paper]
+[![PDF]
+[![Project]
+[![License]
+
 </div>
 
 > Photonic Flow Matching (PFM) formulates image generation as a physically realizable transport process under paraxial wave optics.  
