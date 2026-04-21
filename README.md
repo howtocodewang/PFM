@@ -93,7 +93,7 @@ pip install torch==2.9.1 torchvision==0.24.1 --index-url https://download.pytorc
 
 # :school: Setup
 <div align="center">
-  <img src="assets/setup.png" width="100%">
+  <img src="assets/setup.jpg" width="100%">
 </div>
 # 🎬 Demo
 
