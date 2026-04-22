@@ -126,5 +126,5 @@ This work builds upon several excellent open-source projects:
 - [Meanflow](https://github.com/haidog-yaqub/MeanFlow/tree/main)
 - [Latent diffusion model](https://github.com/CompVis/latent-diffusion)
 - [CLIP](https://github.com/openai/CLIP)
-
+- [DiT_from_scratch](https://github.com/waylandzhang/DiT_from_scratch)
 ---
