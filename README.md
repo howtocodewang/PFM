@@ -59,7 +59,7 @@ This repository includes:
 
 We provide the software implementations of:
 
-- **PFM training**
+<!--- **PFM training**-->
 - **PFM inference / generation**
 - **Simulated optical propagation**
 - **Phase-mask-conditioned transport**
@@ -84,10 +84,10 @@ pip install torch==2.9.1 torchvision==0.24.1 --index-url https://download.pytorc
 
 **3. Install PFM**
 
-# 📦 Model Download
+<!--# 📦 Model Download
 
 | Model Name | Huggingface Repository | ModelScope Repository | Description |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |-->
 
 > 🚧 **Coming soon**
 
@@ -102,7 +102,7 @@ pip install torch==2.9.1 torchvision==0.24.1 --index-url https://download.pytorc
 This project is released under the Apache License 2.0. See [LICENSE](LICENSE.txt) file for details.
 
 # 📖 Citation
-
+<!--
 ```bibtex
 @article{chen2026,
   title={Photonic Flow Matching},
@@ -111,10 +111,10 @@ This project is released under the Apache License 2.0. See [LICENSE](LICENSE.txt
   year={2026}
 }
 ```
-
+-->
 # ✨ Acknowledgments
 
-We thank *** for their helpful discussions and support.
+<!--We thank *** for their helpful discussions and support.-->
 
 This work builds upon several excellent open-source projects:
 
