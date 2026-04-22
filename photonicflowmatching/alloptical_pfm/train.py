@@ -1,4 +1,4 @@
-import os
+<!--import os
 import random
 import numpy as np
 from tensorboardX import SummaryWriter
@@ -186,3 +186,4 @@ def main():
 if __name__ == '__main__':
 
     main()
+-->
