@@ -82,7 +82,7 @@ pip install torch==2.9.1 torchvision==0.24.1 --index-url https://download.pytorc
 
 > For other CUDA versions, see [PyTorch Get Started](https://pytorch.org/get-started/locally/).
 
-**3. Install PFM**
+**3. Inference PFM**
 
 <!--# 📦 Model Download
 
@@ -101,7 +101,7 @@ pip install torch==2.9.1 torchvision==0.24.1 --index-url https://download.pytorc
 
 This project is released under the Apache License 2.0. See [LICENSE](LICENSE.txt) file for details.
 
-# 📖 Citation
+<!--# 📖 Citation-->
 <!--
 ```bibtex
 @article{chen2026,
