@@ -83,6 +83,9 @@ pip install torch==2.9.1 torchvision==0.24.1 --index-url https://download.pytorc
 > For other CUDA versions, see [PyTorch Get Started](https://pytorch.org/get-started/locally/).
 
 **3. Inference PFM**
+<div align="center">
+<img src="example/twmoons/twomoons_flows.png" width="100%">
+</div>
 
 <!--# 📦 Model Download
 
