@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/34583132-3b91-495b-ac9e-aa05286136ec
 > Photonic Flow Matching (PFM) formulates image generation as a physically realizable transport process under paraxial wave optics.  
 > In PFM, a sample is treated as the full normalized intensity distribution, while free-space propagation and programmable phase modulation induce a transport map on the sample space.
 
-## Overview
+<!--## Overview
 
 This repository provides the implementation of **Photonic Flow Matching (PFM)**, a wave-optics-grounded framework for continuity-driven generative transport.
 
@@ -41,7 +41,7 @@ This repository includes:
 - simulated optical propagation modules;
 - configurable phase modulation layers;
 - demo scripts for sample generation;
-- evaluation scripts for common generative metrics.
+- evaluation scripts for common generative metrics.-->
 
 ---
 
