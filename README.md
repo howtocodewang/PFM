@@ -47,11 +47,11 @@ This repository includes:
 
 # 🗺️ Meet Photonic Flow Matching! We've built a optoelectronic generative model for Text-to-Image! 🏗️🌍
 
-Photonic Flow Matching has focused on:
+<!--Photonic Flow Matching has focused on:
 
 - **Wave-optics generative law**: By transforming the time-dependent generation process into the spatial domain, generation is achieved through a single analytical propagation of light, thereby obviating the need for an ODE solver.
 - **Input-dependent velocity modulation**: Revisiting diffractive neural networks from the perspective of flow matching, we designed a nonlinear network with dynamic modulation.
-- **State-of-the-Art Generation**: Superior performance on diverse benchmarks compared to both existing optical-based approaches.
+- **State-of-the-Art Generation**: Superior performance on diverse benchmarks compared to both existing optical-based approaches.-->
 
 ---
 
