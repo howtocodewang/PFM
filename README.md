@@ -84,7 +84,9 @@ pip install torch==2.9.1 torchvision==0.24.1 --index-url https://download.pytorc
 
 **3. Inference PFM**
 <div align="center">
-<img src="example/twomoons/twomoons_flows.png" width="100%">
+  <img src="example/twomoons/twomoons_flows.png" width="100%">
+  <img src="example/checkboard/checkboard_flows.png" width="100%">
+  <img src="example/Riemannsphere/Riemann_flows.png" width="100%">
 </div>
 
 <!--# 📦 Model Download
